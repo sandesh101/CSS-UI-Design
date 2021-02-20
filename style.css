@@ -169,3 +169,7 @@ body{
     transform: translateY(0px);
     transition-delay: 1s;
 }
+.container .card .contentBox a:hover{
+    background: #9bdc28;
+    transition-delay: 0s;
+}
