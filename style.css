@@ -167,7 +167,7 @@ body{
 .container .card:hover .contentBox a{
     opacity: 1;
     transform: translateY(0px);
-    transition-delay: 1s;
+    /* transition-delay: 1s; */
 }
 .container .card .contentBox a:hover{
     background: #9bdc28;
